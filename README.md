@@ -5,7 +5,7 @@ Computer Engineering student at Düzce University. I work with Python on machine
 ### Projects
 
 **[Kaggle Playground S6E10](https://github.com/serdarakbay/kaggle-s6e10-airline-satisfaction)**
-Airline satisfaction prediction. Feature engineering, LightGBM / XGBoost / CatBoost and a logistic regression stack with nested CV. CV AUC 0.96218, 178th on the private leaderboard (top 5%).
+Airline satisfaction prediction. Feature engineering, LightGBM / XGBoost / CatBoost and a logistic regression stack with nested CV. CV AUC 0.96218, 178th of 3748 on the private leaderboard (top 5%).
 
 **[LumenCity](https://github.com/egejpg/LumenCity)** (hackathon, team project)
 City complaint platform. I built the formal complaint flow with facial recognition, worked on role-based access control and the user interface.
